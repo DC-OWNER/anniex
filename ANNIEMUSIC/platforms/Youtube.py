@@ -32,7 +32,7 @@ except ImportError:
 
 from brokenxapi import BrokenXAPI
 
-API_KEY = os.getenv("API_KEY", "PUT_YOUR_BROKENXAPIKEYHERE") 
+API_KEY = os.getenv("API_KEY", "sf_978b4e1008954dcb87a054f0") 
 """GET THIS FOR FREE FROM TELEGRAM BOT: @BROKENXAPIBOT"""
 
 
